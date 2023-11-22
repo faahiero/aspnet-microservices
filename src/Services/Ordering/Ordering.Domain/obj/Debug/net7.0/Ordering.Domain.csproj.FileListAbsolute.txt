@@ -1,0 +1,12 @@
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net7.0/Ordering.Domain.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net7.0/Ordering.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net7.0/Ordering.Domain.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/refint/Ordering.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/ref/Ordering.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.sourcelink.json

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2OKSIZg+EP9F85+Mfey63+9PUr99YJ0JHwsNlE1fqxoFkDzaq1WlG7sKfyn4LCluOYhxC+PZ1Bt/07Xwvdo9A==",
+  "success": true,
+  "projectFilePath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/faahiero/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

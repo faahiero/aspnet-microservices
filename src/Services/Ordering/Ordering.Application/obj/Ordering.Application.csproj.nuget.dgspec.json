@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/Ordering.Application.csproj": {}
+  },
+  "projects": {
+    "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/Ordering.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/Ordering.Application.csproj",
+        "projectName": "Ordering.Application",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/Ordering.Application.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj": {
+                "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj",
+        "projectName": "Ordering.Domain",
+        "projectPath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/Ordering.Domain.csproj",
+        "packagesPath": "/home/faahiero/.nuget/packages/",
+        "outputPath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faahiero/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

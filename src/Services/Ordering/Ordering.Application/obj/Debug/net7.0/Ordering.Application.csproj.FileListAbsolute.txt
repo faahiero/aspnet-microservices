@@ -1,0 +1,16 @@
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net7.0/Ordering.Application.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net7.0/Ordering.Application.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net7.0/Ordering.Application.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net7.0/Ordering.Domain.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/bin/Debug/net7.0/Ordering.Domain.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.csproj.AssemblyReference.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.csproj.CopyComplete
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/refint/Ordering.Application.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/ref/Ordering.Application.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/Services/Ordering/Ordering.Application/obj/Debug/net7.0/Ordering.Application.sourcelink.json

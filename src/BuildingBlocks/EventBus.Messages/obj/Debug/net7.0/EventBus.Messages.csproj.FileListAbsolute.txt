@@ -1,0 +1,12 @@
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/bin/Debug/net7.0/EventBus.Messages.deps.json
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/bin/Debug/net7.0/EventBus.Messages.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/bin/Debug/net7.0/EventBus.Messages.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.AssemblyInfoInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.AssemblyInfo.cs
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.csproj.CoreCompileInputs.cache
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/refint/EventBus.Messages.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.pdb
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/ref/EventBus.Messages.dll
+/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/obj/Debug/net7.0/EventBus.Messages.sourcelink.json

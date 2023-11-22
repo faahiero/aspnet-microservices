@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbOqw6Q6J/b9aMVcXhTm3MShr1pxl/txY8ULUVc2Xh+/sxSSSmsO+HNk86TcyN+ljAWlPTxXyjJh0+V5rHVIHw==",
+  "success": true,
+  "projectFilePath": "/home/faahiero/Documentos/Workspace/dotnet/AspNetMicroservices/src/BuildingBlocks/EventBus.Messages/EventBus.Messages.csproj",
+  "expectedPackageFiles": [
+    "/home/faahiero/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/faahiero/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
